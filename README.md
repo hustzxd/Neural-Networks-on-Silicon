@@ -2,6 +2,10 @@
 
 My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). One of my research interests is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
 
+QPyTorch: A Low-Precision Arithmetic Simulation Framework
+
+low-precision training
+
 ## Table of Contents
  - [My Contributions](#my-contributions)
  - [Conference Papers](#conference-papers)
